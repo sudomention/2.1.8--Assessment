@@ -19,7 +19,9 @@ h2,
 h3 {
   font-family: "Playfair Display", Times, serif;
 }
-
+main {
+  text-align: center;
+}
 article {
   padding: 50px 0;
 }
