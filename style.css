@@ -20,11 +20,18 @@ h3 {
   font-family: "Playfair Display", Times, serif;
 }
 
-main h3 {
+body header nav a{
+  padding: 10px;
+}
+header h1,nav {
   text-align: center;
 }
+main h3{
+  text-align: center;
+}
+
 article {
-  padding: 50px 0;
+  padding: 50px ;
 }
 article h2{
   text-align: center;
@@ -43,6 +50,7 @@ div {
   margin: auto;
   width: 600px;
 }
+
 footer p{
   text-align: center;
 }
